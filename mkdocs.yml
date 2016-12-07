@@ -1,0 +1,5 @@
+site_name: Workflow for searching invariant genes
+pages:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
