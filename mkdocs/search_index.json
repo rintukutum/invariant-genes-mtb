@@ -37,7 +37,7 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\nAuthors\n\n\n\n\nDr. Divneet Kaur [1]\n\n\nRintu Kutum [1, 2]\n\n\nDr. Debasis Dash [1, 2]\n\n\nDr. Samir K. Brahmachari* [1,2,3]\n\n\n\n\nAffiliations\n\n\n\n\nCSIR-Institute of Genomics \n Integrative Biology, New Delhi, India\n\n\nAcademy of Scientific and Innovative Research, New Delhi, India\n\n\nCSIR- Open Source Drug Discovery Unit, New Delhi, India\n\n\n\n\n[*] Corresponding author", 
+            "text": "Overview\n\n\nThis is a website contains details about \ndataset\n and \nmethodology\n adopted for searching invariant\nproteins across 1623 \nMycobacterium tuberculosis\n clinical isolates.\n\n\nAuthors\n\n\n\n\nDr. Divneet Kaur\n\n\nRintu Kutum\n\n\nDr. Debasis Dash\n\n\nDr. Samir K. Brahmachari", 
             "title": "About"
         }, 
         {
@@ -47,13 +47,8 @@
         }, 
         {
             "location": "/about/#authors", 
-            "text": "Dr. Divneet Kaur [1]  Rintu Kutum [1, 2]  Dr. Debasis Dash [1, 2]  Dr. Samir K. Brahmachari* [1,2,3]", 
+            "text": "Dr. Divneet Kaur  Rintu Kutum  Dr. Debasis Dash  Dr. Samir K. Brahmachari", 
             "title": "Authors"
-        }, 
-        {
-            "location": "/about/#affiliations", 
-            "text": "CSIR-Institute of Genomics   Integrative Biology, New Delhi, India  Academy of Scientific and Innovative Research, New Delhi, India  CSIR- Open Source Drug Discovery Unit, New Delhi, India   [*] Corresponding author", 
-            "title": "Affiliations"
         }
     ]
 }
